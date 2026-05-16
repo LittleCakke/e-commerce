@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
+    <!-- 背景矩形 (对应 size-10 bg-primary rounded-xl) -->
+    <!-- 假设 size-10 约为 40x40 像素，bg-primary 设为蓝色，rounded-xl 为大圆角 -->
+    <rect width="36" height="36" rx="10" ry="10" fill="oklch(68.628% 0.185 148.958)" />
+
+    <!-- 内部购物袋图标 (对应 lucide-shopping-bag) -->
+    <!-- 位置经过调整以适应新的 viewBox 并保持居中 -->
+    <g transform="translate(6,6)" fill="none" stroke="rgba(0,0,0,.7)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M16 10a4 4 0 0 1-8 0"/>
+        <path d="M3.103 6.034h17.794"/>
+        <path d="M3.4 5.467a2 2 0 0 0-.4 1.2V20a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6.667a2 2 0 0 0-.4-1.2l-2-2.667A2 2 0 0 0 17 2H7a2 2 0 0 0-1.6.8z"/>
+    </g>
+</svg>

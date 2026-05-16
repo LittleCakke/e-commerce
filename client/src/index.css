@@ -1,0 +1,5 @@
+@import "sonner/dist/styles.css";
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes: forest;
+}
