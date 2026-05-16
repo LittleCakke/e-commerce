@@ -11,7 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "packageManager": "pnpm@10.33.2",
   "dependencies": {
     "@clerk/express": "^2.1.14",
     "cloudinary": "^2.10.0",
